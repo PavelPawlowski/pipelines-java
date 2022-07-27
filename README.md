@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/pawlowski/Pokusy/_apis/build/status/PavelPawlowski.pipelines-java?branchName=main)](https://dev.azure.com/pawlowski/Pokusy/_build/latest?definitionId=13&branchName=main)
+
 
 # Contributing
 
